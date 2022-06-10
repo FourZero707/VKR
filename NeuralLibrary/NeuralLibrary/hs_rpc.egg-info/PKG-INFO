@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: hs-rpc
+Version: 0.0.3
+Summary: сервисная упаковка рпк
+Home-page: 
+Author: huansi_mes_team
+Author-email: 751995207@qq.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

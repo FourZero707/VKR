@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NeuralLibrary", "NeuralLibrary\NeuralLibrary.pyproj", "{A6D03F2C-E53E-4505-A1EC-5C18EF5B8179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6D03F2C-E53E-4505-A1EC-5C18EF5B8179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D03F2C-E53E-4505-A1EC-5C18EF5B8179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E9BD05-945D-47C9-8604-AC332F1DB9D3}
+	EndGlobalSection
+EndGlobal

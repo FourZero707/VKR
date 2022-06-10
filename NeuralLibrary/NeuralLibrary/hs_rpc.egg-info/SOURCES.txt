@@ -1,0 +1,7 @@
+README.md
+setup.py
+hs_rpc.egg-info/PKG-INFO
+hs_rpc.egg-info/SOURCES.txt
+hs_rpc.egg-info/dependency_links.txt
+hs_rpc.egg-info/requires.txt
+hs_rpc.egg-info/top_level.txt
